@@ -31,7 +31,7 @@ body {
 
 .row,
 .column {
-    border: 1px solid rgba(13, 14, 14, 0.489);
+    border: 1px solid rgba(105, 107, 107, 0.284);
     flex-grow: 1;
 }
 
@@ -50,7 +50,7 @@ body {
 .controlBtn {
     margin: 10px 10px 10px 10px;
     padding: 10px;
-    font-size: 10px;
+    font-size: 15px;
     border: none;
     background-color: rgb(53, 152, 238);
     color: white;
